@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Durgesh Kr Thakur</h1> 
 <h3 align="center">Aspiring Full Stack Dev | From UI to backend — crafting complete digital experiences</h3> 
 
-<img align="right" src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif" alt="Coding"> 
+<img align="right" src="https://i.pinimg.com/originals/29/12/98/29129842108c46684a26c427741db074.gif" alt="Coding"> 
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=quietcoder&label=Profile%20views&color=0e75b6&style=flat" alt="quietcoder" /> </p> 
  
